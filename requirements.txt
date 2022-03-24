@@ -1,0 +1,7 @@
+Django
+django-filter
+psycopg2-binary>=2.8
+requests>=2.25
+djangorestframework
+djangorestframework-simplejwt==4.7.1
+PyJWT==2.1.0
